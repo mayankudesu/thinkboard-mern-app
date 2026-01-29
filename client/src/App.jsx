@@ -6,7 +6,8 @@ import toast from "react-hot-toast"
 
 const App = () => {
   return (
-    <div>
+    <div data-theme="forest" className='h-screen'>
+      <button className='btn btn-error'>Click Me</button>
     <Routes>
       <Route path='/' element= { <HomePage/> } />
       <Route path='/create' element= { <CreatePage/> } />
