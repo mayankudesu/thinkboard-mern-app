@@ -18,7 +18,7 @@ const NoteCard = ({ note, setNotes }) => {
       console.log("Error in handleDelete", error);
       toast.error("Failed to delete note");
     }
-  };
+  };  
 
   return (
     <Link
