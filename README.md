@@ -1,4 +1,4 @@
-# ThinkBoard - Note Taking App
+# ThinkBoard - Note-Taking App
 
 ## 📗 Table of Contents
 
