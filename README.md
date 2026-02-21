@@ -1,5 +1,7 @@
 # ThinkBoard - Note-Taking App
 
+![image alt](https://github.com/mayankudesu/thinkboard/blob/9c2703490d67a0b06e5973e15e6e8fbc70efde71/thinkboard_preview.png)
+
 ## 📗 Table of Contents
 
 - [📖 About the Project](#-about-the-project)
