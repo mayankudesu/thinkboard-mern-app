@@ -1,4 +1,4 @@
-# 🧠 ThinkBoard
+# ThinkBoard - Note Taking App
 
 ## 📗 Table of Contents
 
@@ -90,7 +90,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/mayankudesu/thinkboard.git
 cd thinkboard
-
+```
 
 
 
