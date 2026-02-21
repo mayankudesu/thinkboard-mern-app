@@ -176,7 +176,3 @@ If you like this project, please give it a ⭐️ and follow me on GitHub.
 ## 📝 License
 
 This project is licensed under the MIT License.
-
-Push this and your repo will look 10x more legit 😌  
-Want badges (Live • MERN • License) on top too? I can add those. 🚀
-::contentReference[oaicite:0]{index=0}
